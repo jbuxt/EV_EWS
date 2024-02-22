@@ -1,5 +1,4 @@
 library(stats)
-library(latex2exp)
 
 #Import market share time series
 #Data is from Jan 2009 to Dec 2022
